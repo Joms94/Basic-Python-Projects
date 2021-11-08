@@ -4,4 +4,4 @@ def cyberloop(game='Cyberpunk', iterations=2077):
 
 
 if __name__ == '__main__':
-    cyberloop('Metro', 2033)
+    cyberloop()
