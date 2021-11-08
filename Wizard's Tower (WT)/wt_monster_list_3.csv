@@ -1,0 +1,35 @@
+Name,Damage,Health,Gold
+Goblin,2,8,2
+Hobgoblin,4,12,8
+Orc,5,15,12
+Troll,8,20,16
+Glass Knight,12,8,12
+Trench Knight,3,17,12
+Kobold,3,6,2
+Angry Peasant,2,5,1
+Lizard Man,6,10,8
+Tax Collector,3,8,4
+Gremlin,1,5,1
+Gnome,4,3,3
+Thief,5,6,5
+Bandit,4,7,4
+Gargoyle,4,16,12
+Hound,7,3,2
+Hellhound,14,6,12
+Fairy,3,3,3
+Dryad,5,10,10
+Mimic,2,150,60
+Gigawasp,20,1,30
+Harpy,6,6,6
+Giant Rat,4,8,5
+Dark Wizard,20,50,45
+Storm Witch,25,55,60
+Grey Demon,10,100,50
+Cyclops,15,60,50
+Mage-Hunter,50,120,200
+Rival Sorcerer,10,40,35
+Dragon,150,1400,1000
+Shivan Titan,300,450,1000
+Ancient Lich,400,300,1000
+
+
