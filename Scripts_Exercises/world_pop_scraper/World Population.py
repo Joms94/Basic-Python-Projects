@@ -2,6 +2,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import matplotlib.pyplot as plt
 
 
 def pop_scraper():
@@ -29,6 +30,8 @@ def pop_graph(pop_dataframe):
     graph.set_title("Top 10 Countries by Population", fontdict={'fontsize': 23})
     graph.set_xlabel("Country", fontdict={'fontsize': 15})
     graph.set_ylabel("Population (Billions)", fontdict={'fontsize': 15})
+    plt.show()
 
 
-pop_graph(pop_scraper())
+if __name__ == '__main__':
+    pop_graph(pop_scraper())
